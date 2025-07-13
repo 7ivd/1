@@ -412,10 +412,10 @@ if __name__ == "__main__":
         print("\x1b[93m" + """
             Welcome to 1re0 Nuker!
             
-            This program is designed for educational purposes only.
-            Please use it responsibly.
+            This python/code for Destroy Scammers - Others . 
+            By 1re0 - Reo
         """ + "\x1b[0m")
-        token = input("{}({}1re0{R{}) Enter Your Bot token: ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
+        token = input("{}({}{}1re0{}) Enter Your Bot token: ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
         guildid = input("{}({}{}1re0{}) Enter The Server ID: ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
         __client__.run(token, bot=True)
     except Exception as e:
