@@ -10,7 +10,7 @@ _______________________________________________
 
 - [4] `git clone https://github.com/7ivd/1/`
 
-- [5] `cd 1`
+- [5] `cd 1re0`
 
 - [6] `pip install -r requirements.txt`
 
@@ -21,6 +21,6 @@ _______________________________________________
 
 # running
 
-- [1] `cd 1`
+- [1] `cd 1re0`
 
 - [2] `python 1re0tool.py`
