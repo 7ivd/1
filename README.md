@@ -8,7 +8,7 @@ _______________________________________________
 
 - [3] `pkg install python -y`
 
-- [4] `git clone https://github.com/1669HecToR/HecToR-Nuker`
+- [4] `git clone https://github.com/7ivd/1/`
 
 - [5] `cd HecToR-Nuker`
 
