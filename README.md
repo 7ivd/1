@@ -10,7 +10,7 @@ _______________________________________________
 
 - [4] `git clone https://github.com/7ivd/1/`
 
-- [5] `cd HecToR-Nuker`
+- [5] `cd 1re0Nuker`
 
 - [6] `pip install -r requirements.txt`
 
