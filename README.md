@@ -1,5 +1,4 @@
-# HecToR
-*Disclaimer: I completely disclaim responsibility for using the tool to hack any server. The tool was created to hack Discord scammers and hack oppressors. I disclaim all responsibility for using the tool for evil.*
+
 _______________________________________________
 #  Setup
 
@@ -17,11 +16,11 @@ _______________________________________________
 
 - [7] `pip install asyncio`
 
-- [8] `python HecToR-XTool.py`
+- [8] ` python 1re0tool.py`
 _______________________________________________
 
 # running
 
-- [1] `cd HecToR-Nuker`
+- [1] `cd 1re0Nuker`
 
-- [2] `python HecToR-XTool.py`
+- [2] `python 1re0tool.py`
